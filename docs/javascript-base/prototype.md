@@ -52,3 +52,25 @@ console.log(instance.__proto__ === Object.prototype) // true
 console.log(Object.prototype.__proto__) // null
 ```
 <img src="./static/prototype2.png" width="100%">
+
+## 关于Function
+函数也是对象，因此构造器函数也可当做实例，由Function构造器函数创建。
+```
+var Dog = new Function()
+console.log(Dog.__proto__ === Function.prototype)// true
+console.log(Function.__proto__ === Function.prototype)// true
+console.log(Object.__proto__ === Function.prototype)// true
+```
+<img src="./static/prototype3.png" width="100%">
+
+##  关于class
+
+```
+class A {}
+var a = new A()
+console.log(typeof A) // function
+console.log(a.__proto__ === A.prototype) // true
+class B extends a {}
+var b = new B()
+console.log(B.prototype.__proto__ === A.prototype) // true
+```
