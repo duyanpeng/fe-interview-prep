@@ -4,6 +4,10 @@
 
 [prototype](./docs/javascript-base/prototype.md)
 
+[closure](./docs/javascript-base/closure.md)
+
+[this](./docs/javascript-base/this.md)
+
 ### 工程化
 [webpack源码解析](./docs/webpack/webpack-resource.md)  
 
