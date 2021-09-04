@@ -8,8 +8,14 @@
 
 [this](./docs/javascript-base/this.md)
 
+### javascript默写
+[promise](./docs/javascript-write/promise.md)
+
 ### 工程化
 [webpack源码解析](./docs/webpack/webpack-resource.md)  
+
+### 网络
+[http](./docs/net/http.md)
 
 ### 面试题收藏
 #### 2021
