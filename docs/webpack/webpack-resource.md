@@ -14,6 +14,7 @@
    
 [【webpack 进阶】Webpack 打包后的代码是怎样的？](https://cloud.tencent.com/developer/article/1800609)
 
+[【webpack 进阶】Webpack 打包后的代码是怎样的？背诵版](./common-es6.md)
 ### tree shaking
 [Webpack 4 Tree Shaking 终极优化指南](https://juejin.cn/post/6844903998634328072)
 [Webpack 实现 Tree shaking 的前世今生](https://juejin.cn/post/6978648939012554765)
