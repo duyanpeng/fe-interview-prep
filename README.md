@@ -38,6 +38,11 @@
 
 [redux]
 
+[深入探究immutable.js的实现机制（一）](https://zhuanlan.zhihu.com/p/44571842)
+
+### node
+[Node.js 底层原理](https://mp.weixin.qq.com/s/JmvHLsueJJZluNyroDbwdg)
+
 ### 算法
 [排序]
 
