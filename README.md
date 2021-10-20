@@ -26,9 +26,9 @@
 [tcp]
 
 ### 浏览器
-[浏览器原理]
+[Chrome 为什么多进程而不是多线程？](https://www.zhihu.com/question/368712837/answer/994040540)  
 
-[性能]
+[前端监控 SDK 的一些技术要点原理分析](https://zhuanlan.zhihu.com/p/420330110?utm_source=wechat_session&utm_medium=social&utm_oi=734872201886437376&s_r=0)  
 
 ### vue
 [diff]
@@ -44,7 +44,7 @@
 
 [hooks]
 
-[redux]
+[各流派React状态管理对比和原理实现](https://mp.weixin.qq.com/s/h8uRkY8wzzP-ajmEIHkzwQ)
 
 [深入探究immutable.js的实现机制（一）](https://zhuanlan.zhihu.com/p/44571842)
 
@@ -62,9 +62,7 @@
 [设计模式](https://mp.weixin.qq.com/s/VEJpFm2E9D4ZqR0HkAoSKA)
 
 ### 操作系统
-[进程]
-
-[内存]
+[操作系统八股文背诵版v0.2](https://mp.weixin.qq.com/s/Ss0Vps19pAkBLZMBrtSN8g)
 
 ### 面试题收藏
 #### 2021

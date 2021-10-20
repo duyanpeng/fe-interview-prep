@@ -6,7 +6,13 @@
 
 [精读 React18](https://zhuanlan.zhihu.com/p/388891604)  
 
-## 备忘
+[Batch Update 浅析](https://zhuanlan.zhihu.com/p/28532725)  
+
+[React合成事件系统](https://zhuanlan.zhihu.com/p/25883536)  
+
+## 文档备忘录
+
+### 生命周期
 ```
 从Reactv17开始，componentWillXXX钩子前增加了UNSAFE_前缀。
 
@@ -16,8 +22,3 @@
 
 我们可以看见，getSnapshotBeforeUpdate是在commit阶段内的before mutation阶段调用的，由于commit阶段是同步的，所以不会遇到多次调用的问题。
 ```
-[batchUpdates]
-
-[suspense]
-
-[合成事件]
